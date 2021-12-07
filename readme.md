@@ -16,8 +16,6 @@ Należy wrzucić wszystkie paczkę z plikami na serwer oraz postępować według
 ## Autor
 
 * **Jakub Karalus** 
-* *nr  album: 380950*
-* *jkaralus*
 
 ## Wykorzystane zewnętrzne biblioteki
 
